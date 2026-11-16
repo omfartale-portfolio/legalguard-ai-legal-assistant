@@ -38,7 +38,7 @@ The architecture page separates confirmed descriptions from a proposed way to ex
 
 This public portfolio intentionally excludes source code, contracts, internal policies, legal advice, customer/vendor data, credentials and non-public operational details. Demo scenarios use fictional parties and invented clause text. Any legal source used in a future example should be public, authoritative for its stated jurisdiction and linked with its version and date checked.
 
-## Details to confirm
+## Accuracy
 
 Before making stronger technical or impact claims, document: product status and dates; the user’s role and scope; supported jurisdictions and contract types; source names, coverage and update process; how suggestions and citations are generated; auditor/self-check behavior; human approval points; data handling and access controls; integrations; deployment; and any outcome measures that can be shared publicly. See the individual docs for targeted questions.
 
