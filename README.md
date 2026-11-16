@@ -1,5 +1,7 @@
 # LegalGuard — AI Legal Assistant
 
+![LegalGuard — AI-powered legal workflows](assets/legalguard-banner.svg)
+
 LegalGuard is an AI-powered legal automation tool I designed from my own legal analysis. It is currently used for professional work and is not offered for sale or publicly released.
 
 > This repository presents LegalGuard’s use cases and workflows. Product implementation and internal materials remain private. Examples use fictional parties and contract details.
