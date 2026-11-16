@@ -1,47 +1,33 @@
 # LegalGuard — AI Legal Assistant
 
-A recruiter-facing portfolio documenting LegalGuard, an AI-powered legal automation system I designed independently with chatbot assistance and my own legal analysis. It is currently used for professional work; the product is not offered for sale or publicly released.
+LegalGuard is an AI-powered legal automation tool I designed from my own legal analysis. It is currently used for professional work and is not offered for sale or publicly released.
 
-> **Scope:** This public repository contains documentation only. It includes no product code, internal documents, contracts or customer/vendor data. Technical implementation, deployment and integrations are not included. Examples are synthetic.
+> This repository presents LegalGuard’s use cases and workflows. Product implementation and internal materials remain private. Examples use fictional parties and contract details.
 
 ## Project at a glance
 
-In my experience, legal-focused AI tools I considered could be expensive to maintain or not reliable enough for the work I needed. General AI tools still left substantial manual checking. I designed LegalGuard to address that gap with a cost-efficient approach centered on legal knowledge I supplied and a strong focus on accuracy.
+In my experience, general AI tools still required hours of manual review, while legal-focused AI tools I considered were expensive to maintain or not reliable enough for my needs. I designed LegalGuard to make legal review more accurate and cost-efficient, using legal knowledge I supplied and human review.
 
-LegalGuard supports contract review and redlining with clause-level suggestions, drafting from a pre-approved clause library, an auditor pass/self-check, a regulatory watcher, a compliance calendar with deadline alerts, and a contract risk dashboard. Its verification layer is described as checking answers against 30–40 curated legal sources.
+LegalGuard supports contract review and redlining with clause-level suggestions, drafting from a pre-approved clause library, an auditor self-check, regulatory monitoring, compliance calendar and deadline alerts, and a contract risk dashboard. Its verification layer checks legal answers against 30–40 curated legal sources.
 
-## What the portfolio covers
+## What LegalGuard does
 
-- [Workflow and conceptual architecture](docs/01-workflows-and-architecture.md)
+- [How LegalGuard works](docs/01-workflows-and-architecture.md)
 - [Contract review and redlining](docs/02-contract-review-and-redlining.md)
 - [Regulatory monitoring and deadlines](docs/03-regulatory-monitoring.md)
-- [Legal research verification](docs/04-source-verification.md)
-- [Human oversight and risk controls](docs/05-human-oversight-and-risk-controls.md)
-- [Synthetic demo and test scenarios](docs/06-demo-and-test-scenarios.md)
-
-## Capabilities
+- [Legal source verification](docs/04-source-verification.md)
+- [Human review and risk controls](docs/05-human-oversight-and-risk-controls.md)
+- [Example workflows](docs/06-demo-and-test-scenarios.md)
 
 | Area | LegalGuard workflow |
 | --- | --- |
 | Contract analysis | Clause-level review and suggestions; contract risk dashboard |
 | Drafting | Drafting from a pre-approved clause library |
 | Redlining | Clause-level proposed edits for review |
-| Quality checks | Auditor pass/self-check; verification against 30–40 curated legal sources |
+| Verification | Auditor self-check; checks against 30–40 curated legal sources |
 | Regulatory operations | Regulatory watcher; compliance calendar and deadline alerts |
-| Oversight | Human review and risk controls |
-
-LegalGuard is currently used for professional work. The workflows above reflect my experience and design; implementation specifics, jurisdiction coverage and outcome measures are not included in this public portfolio.
-
-## How to read the workflow docs
-
-The architecture page separates the described capabilities from a conceptual way to explain how they fit together. That workflow framing is not a claim about the software’s internal architecture. Each page notes where implementation details need further documentation.
-
-## Privacy and responsible presentation
-
-This portfolio excludes source code, contracts, internal policies, legal advice, customer/vendor data, credentials and non-public operational details. Demo scenarios use fictional parties and invented clause text. Any legal source used in a future example should be public, authoritative for its stated jurisdiction and linked with its version and date checked.
+| Oversight | Human review of legal analysis and proposed actions |
 
 ## Accuracy
 
-I personally reviewed every answer during my assessment of LegalGuard and found the outputs highly accurate in my use, particularly on dates and other details that can be easy to overlook or mishandle. LegalGuard works from the legal knowledge I supplied, and my hands-on review is central to the accuracy I observed. I designed it to offer a more cost-efficient approach to professional legal work than the options I considered.
-
-My assessment comes from hands-on review in professional use. LegalGuard is not offered for sale or publicly released.
+I personally reviewed every LegalGuard answer and found the results highly accurate in my use, especially on dates and other details that are easy to overlook or mishandle. LegalGuard works from legal knowledge I supplied, with human review as part of the workflow. I designed it to provide this level of legal support at a cost-efficient level of maintenance.
