@@ -6,6 +6,10 @@ LegalGuard is an AI-powered legal automation tool I designed from my own legal a
 
 > This repository presents LegalGuard’s use cases and workflows. Product implementation and internal materials remain private. Examples use fictional parties and contract details.
 
+## Demo
+
+[Open the LegalGuard demo (Word)](assets/LEGALGUARD_demo.docx). It uses a fictional company, fictional rules and made-up data to illustrate a workflow. It does not demonstrate research or interpretation of Indian law and is not legal advice.
+
 ## Project at a glance
 
 In my experience, general AI tools still required hours of manual review, while legal-focused AI tools I considered were expensive to maintain or not reliable enough for my needs. I designed LegalGuard to make legal review more accurate and cost-efficient, using legal knowledge I supplied and human review.
